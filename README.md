@@ -34,6 +34,5 @@ localhost:8080/h2
 
 ## Authors
 
-Angelo Bracaglia [Get in touch](mailto:angelo.bracaglia.ing@gmail.com?subject=[GitHub]-Memory-game-service) 
-
-
+Angelo Bracaglia 
+* e-mail: [angelo.bracaglia.ing@gmail.com](mailto:angelo.bracaglia.ing@gmail.com)
