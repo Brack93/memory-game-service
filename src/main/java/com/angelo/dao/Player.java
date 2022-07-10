@@ -33,10 +33,6 @@ public class Player {
 	
 	private short busy;
 	
-	private String subscription;
-	
-	private String contact;
-	
 	private Date timestamp;
 	
 	private short italian;

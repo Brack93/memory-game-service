@@ -3,9 +3,7 @@ CREATE TABLE player (
     nick varchar(255) NOT NULL,
     `online` smallint,
     busy smallint,
-    subscription varchar(255),
     `timestamp` date,
-    contact varchar(255),
     italian smallint,
     primary key (id)
 );
